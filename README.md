@@ -1,5 +1,5 @@
 # MicroPython Music
-A repo that provides a music module to MicroPython to allow makers to make music within their projects using PWM.
+A repo that provides a music module to MicroPython to allow makers to create music within their projects using PWM.
 
 ## Installation
 ```bash
